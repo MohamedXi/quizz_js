@@ -24,10 +24,20 @@ h1 {
   /* background: pink; */
 }
 
+.success {
+  background: #3c763d !important;
+  color: #ffffff;
+}
+
+.error {
+  background: #a94442 !important;
+  color: #ffffff;
+}
+
 .question-block {
   padding: 15px 25px 25px;
   margin: 20px;
-  border-radius: 5px;
+  border-radius: 10px;
   background-color: #fff;
   border: 1px solid #e5e5e5;
   /*box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);*/
